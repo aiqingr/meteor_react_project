@@ -3,7 +3,7 @@
 //Import the react library
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ImageList from './component/images'
+import ImageList from './components/image_list'
 
 //Create a component
 const App = () => {
